@@ -1,4 +1,4 @@
-# ¡Hola! soy Diana Euan ✋
+**¡Hola! soy Diana Euan**✋
 
 ## Sobre ai
 soy estubiante de 2do semestre de la carrera de **Programación**. Actualmente estoy sumergiendome en el mundo del desarrollo de sotware, enfocandome en construir beses salidas en logica y buena practicas,
