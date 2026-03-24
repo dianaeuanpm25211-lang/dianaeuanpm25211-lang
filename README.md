@@ -1,9 +1,9 @@
 **¡Hola! soy Diana Euan**✋
 
-## Sobre ai
+##  Sobre ai
 soy estubiante de 2do semestre de la carrera de **Programación**. Actualmente estoy sumergiendome en el mundo del desarrollo de sotware, enfocandome en construir beses salidas en logica y buena practicas,
 
-- Colegio de Estubios Cientificos y Tecnologicos del Estado de Campeche plantel pomuch
+- 🏫 Colegio de Estubios Cientificos y Tecnologicos del Estado de Campeche plantel pomuch
 - Actualmente aprendiendo: **Gestion de versiones con Git y GitHub**
 - Mi meta actual: Dominar la logica de programación para resolver problemas de manera eficiente.
 
